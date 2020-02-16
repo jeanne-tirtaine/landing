@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	margin: 0px auto;
+}
+h1, h2, h3 {
+	font-family: 'Fjalla One', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+
